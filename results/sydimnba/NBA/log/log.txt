@@ -1,0 +1,151 @@
+[2025-05-11 13:06:19] Epoch: 0		Loss: 7.166038	Loss Dist.: 6.602049	Loss Uncertainty: 0.563988
+[2025-05-11 14:31:25] Epoch: 1		Loss: 6.693124	Loss Dist.: 6.227483	Loss Uncertainty: 0.465641
+--ADE(1s): 0.1828	--FDE(1s): 0.2801
+--ADE(2s): 0.3837	--FDE(2s): 0.6016
+--ADE(3s): 0.6057	--FDE(3s): 0.9040
+--ADE(4s): 0.8532	--FDE(4s): 1.2284
+[2025-05-11 15:55:15] Epoch: 2		Loss: 6.572082	Loss Dist.: 6.126460	Loss Uncertainty: 0.445622
+[2025-05-11 17:10:45] Epoch: 3		Loss: 6.487895	Loss Dist.: 6.060874	Loss Uncertainty: 0.427021
+--ADE(1s): 0.1786	--FDE(1s): 0.2706
+--ADE(2s): 0.3747	--FDE(2s): 0.5828
+--ADE(3s): 0.5921	--FDE(3s): 0.8645
+--ADE(4s): 0.8304	--FDE(4s): 1.1651
+[2025-05-11 18:33:57] Epoch: 4		Loss: 6.403357	Loss Dist.: 6.001399	Loss Uncertainty: 0.401958
+[2025-05-11 19:48:32] Epoch: 5		Loss: 6.387448	Loss Dist.: 5.986815	Loss Uncertainty: 0.400633
+--ADE(1s): 0.1756	--FDE(1s): 0.2657
+--ADE(2s): 0.3708	--FDE(2s): 0.5791
+--ADE(3s): 0.5881	--FDE(3s): 0.8616
+--ADE(4s): 0.8260	--FDE(4s): 1.1527
+[2025-05-11 21:13:57] Epoch: 6		Loss: 6.385411	Loss Dist.: 5.978540	Loss Uncertainty: 0.406871
+[2025-05-11 22:35:04] Epoch: 7		Loss: 6.348676	Loss Dist.: 5.953901	Loss Uncertainty: 0.394776
+--ADE(1s): 0.1741	--FDE(1s): 0.2620
+--ADE(2s): 0.3671	--FDE(2s): 0.5704
+--ADE(3s): 0.5843	--FDE(3s): 0.8570
+--ADE(4s): 0.8232	--FDE(4s): 1.1571
+[2025-05-12 00:04:30] Epoch: 8		Loss: 6.158281	Loss Dist.: 5.803478	Loss Uncertainty: 0.354803
+[2025-05-12 01:38:36] Epoch: 9		Loss: 6.138194	Loss Dist.: 5.784520	Loss Uncertainty: 0.353674
+--ADE(1s): 0.1714	--FDE(1s): 0.2564
+--ADE(2s): 0.3570	--FDE(2s): 0.5427
+--ADE(3s): 0.5639	--FDE(3s): 0.8098
+--ADE(4s): 0.7959	--FDE(4s): 1.1153
+[2025-05-12 03:30:32] Epoch: 10		Loss: 6.142894	Loss Dist.: 5.783593	Loss Uncertainty: 0.359301
+[2025-05-12 05:14:03] Epoch: 11		Loss: 6.087651	Loss Dist.: 5.748208	Loss Uncertainty: 0.339443
+--ADE(1s): 0.1705	--FDE(1s): 0.2546
+--ADE(2s): 0.3570	--FDE(2s): 0.5452
+--ADE(3s): 0.5655	--FDE(3s): 0.8160
+--ADE(4s): 0.7993	--FDE(4s): 1.1360
+[2025-05-12 07:04:40] Epoch: 12		Loss: 6.079111	Loss Dist.: 5.738888	Loss Uncertainty: 0.340223
+[2025-05-12 08:43:28] Epoch: 13		Loss: 6.032965	Loss Dist.: 5.708514	Loss Uncertainty: 0.324452
+--ADE(1s): 0.1704	--FDE(1s): 0.2541
+--ADE(2s): 0.3558	--FDE(2s): 0.5419
+--ADE(3s): 0.5636	--FDE(3s): 0.8123
+--ADE(4s): 0.7972	--FDE(4s): 1.1383
+[2025-05-12 10:18:01] Epoch: 14		Loss: 6.020830	Loss Dist.: 5.700356	Loss Uncertainty: 0.320474
+[2025-05-12 11:36:40] Epoch: 15		Loss: 6.001127	Loss Dist.: 5.685332	Loss Uncertainty: 0.315794
+--ADE(1s): 0.1700	--FDE(1s): 0.2534
+--ADE(2s): 0.3536	--FDE(2s): 0.5341
+--ADE(3s): 0.5579	--FDE(3s): 0.7967
+--ADE(4s): 0.7901	--FDE(4s): 1.1297
+[2025-05-12 12:58:04] Epoch: 16		Loss: 5.897544	Loss Dist.: 5.598823	Loss Uncertainty: 0.298721
+[2025-05-12 14:12:12] Epoch: 17		Loss: 5.872092	Loss Dist.: 5.573203	Loss Uncertainty: 0.298889
+--ADE(1s): 0.1689	--FDE(1s): 0.2512
+--ADE(2s): 0.3507	--FDE(2s): 0.5290
+--ADE(3s): 0.5536	--FDE(3s): 0.7921
+--ADE(4s): 0.7845	--FDE(4s): 1.1303
+[2025-05-12 15:33:23] Epoch: 18		Loss: 5.877714	Loss Dist.: 5.576292	Loss Uncertainty: 0.301422
+[2025-05-12 16:47:46] Epoch: 19		Loss: 5.873290	Loss Dist.: 5.567698	Loss Uncertainty: 0.305592
+--ADE(1s): 0.1692	--FDE(1s): 0.2516
+--ADE(2s): 0.3519	--FDE(2s): 0.5300
+--ADE(3s): 0.5548	--FDE(3s): 0.7961
+--ADE(4s): 0.7858	--FDE(4s): 1.1327
+[2025-05-12 18:10:06] Epoch: 20		Loss: 5.875519	Loss Dist.: 5.567493	Loss Uncertainty: 0.308026
+[2025-05-12 19:25:24] Epoch: 21		Loss: 5.836599	Loss Dist.: 5.538911	Loss Uncertainty: 0.297688
+--ADE(1s): 0.1680	--FDE(1s): 0.2497
+--ADE(2s): 0.3493	--FDE(2s): 0.5250
+--ADE(3s): 0.5514	--FDE(3s): 0.7882
+--ADE(4s): 0.7814	--FDE(4s): 1.1207
+[2025-05-12 20:46:34] Epoch: 22		Loss: 5.825880	Loss Dist.: 5.529416	Loss Uncertainty: 0.296463
+[2025-05-12 22:01:47] Epoch: 23		Loss: 5.820534	Loss Dist.: 5.522991	Loss Uncertainty: 0.297544
+--ADE(1s): 0.1684	--FDE(1s): 0.2509
+--ADE(2s): 0.3511	--FDE(2s): 0.5284
+--ADE(3s): 0.5535	--FDE(3s): 0.7920
+--ADE(4s): 0.7850	--FDE(4s): 1.1452
+[2025-05-12 23:30:56] Epoch: 24		Loss: 5.744732	Loss Dist.: 5.456509	Loss Uncertainty: 0.288223
+[2025-05-13 00:54:40] Epoch: 25		Loss: 5.718086	Loss Dist.: 5.432597	Loss Uncertainty: 0.285489
+--ADE(1s): 0.1671	--FDE(1s): 0.2481
+--ADE(2s): 0.3483	--FDE(2s): 0.5227
+--ADE(3s): 0.5487	--FDE(3s): 0.7830
+--ADE(4s): 0.7782	--FDE(4s): 1.1304
+[2025-05-13 02:24:36] Epoch: 26		Loss: 5.692922	Loss Dist.: 5.413169	Loss Uncertainty: 0.279753
+[2025-05-13 03:47:45] Epoch: 27		Loss: 5.667859	Loss Dist.: 5.392338	Loss Uncertainty: 0.275521
+--ADE(1s): 0.1675	--FDE(1s): 0.2486
+--ADE(2s): 0.3479	--FDE(2s): 0.5210
+--ADE(3s): 0.5478	--FDE(3s): 0.7808
+--ADE(4s): 0.7773	--FDE(4s): 1.1311
+[2025-05-13 05:17:04] Epoch: 28		Loss: 5.657634	Loss Dist.: 5.383770	Loss Uncertainty: 0.273864
+[2025-05-13 06:37:52] Epoch: 29		Loss: 5.645411	Loss Dist.: 5.370104	Loss Uncertainty: 0.275307
+--ADE(1s): 0.1667	--FDE(1s): 0.2474
+--ADE(2s): 0.3470	--FDE(2s): 0.5194
+--ADE(3s): 0.5467	--FDE(3s): 0.7767
+--ADE(4s): 0.7741	--FDE(4s): 1.1119
+[2025-05-13 08:07:14] Epoch: 30		Loss: 5.634378	Loss Dist.: 5.361722	Loss Uncertainty: 0.272656
+[2025-05-13 09:30:32] Epoch: 31		Loss: 5.621957	Loss Dist.: 5.349836	Loss Uncertainty: 0.272121
+--ADE(1s): 0.1671	--FDE(1s): 0.2483
+--ADE(2s): 0.3478	--FDE(2s): 0.5205
+--ADE(3s): 0.5475	--FDE(3s): 0.7791
+--ADE(4s): 0.7763	--FDE(4s): 1.1255
+[2025-05-13 10:58:59] Epoch: 32		Loss: 5.568665	Loss Dist.: 5.301116	Loss Uncertainty: 0.267549
+[2025-05-13 12:13:57] Epoch: 33		Loss: 5.546960	Loss Dist.: 5.279208	Loss Uncertainty: 0.267752
+--ADE(1s): 0.1665	--FDE(1s): 0.2471
+--ADE(2s): 0.3464	--FDE(2s): 0.5174
+--ADE(3s): 0.5452	--FDE(3s): 0.7750
+--ADE(4s): 0.7733	--FDE(4s): 1.1228
+[2025-05-13 13:34:08] Epoch: 34		Loss: 5.536360	Loss Dist.: 5.270790	Loss Uncertainty: 0.265570
+[2025-05-13 14:46:40] Epoch: 35		Loss: 5.526719	Loss Dist.: 5.259770	Loss Uncertainty: 0.266949
+--ADE(1s): 0.1665	--FDE(1s): 0.2470
+--ADE(2s): 0.3465	--FDE(2s): 0.5175
+--ADE(3s): 0.5455	--FDE(3s): 0.7764
+--ADE(4s): 0.7741	--FDE(4s): 1.1242
+[2025-05-13 16:06:37] Epoch: 36		Loss: 5.524879	Loss Dist.: 5.257880	Loss Uncertainty: 0.266999
+[2025-05-13 17:19:06] Epoch: 37		Loss: 5.522210	Loss Dist.: 5.253762	Loss Uncertainty: 0.268448
+--ADE(1s): 0.1670	--FDE(1s): 0.2479
+--ADE(2s): 0.3477	--FDE(2s): 0.5200
+--ADE(3s): 0.5473	--FDE(3s): 0.7803
+--ADE(4s): 0.7765	--FDE(4s): 1.1341
+[2025-05-13 18:39:07] Epoch: 38		Loss: 5.514529	Loss Dist.: 5.247024	Loss Uncertainty: 0.267506
+[2025-05-13 19:51:47] Epoch: 39		Loss: 5.497527	Loss Dist.: 5.230825	Loss Uncertainty: 0.266702
+--ADE(1s): 0.1664	--FDE(1s): 0.2471
+--ADE(2s): 0.3471	--FDE(2s): 0.5187
+--ADE(3s): 0.5463	--FDE(3s): 0.7778
+--ADE(4s): 0.7752	--FDE(4s): 1.1307
+[2025-05-13 21:12:20] Epoch: 40		Loss: 5.465681	Loss Dist.: 5.202011	Loss Uncertainty: 0.263669
+[2025-05-13 22:25:43] Epoch: 41		Loss: 5.449889	Loss Dist.: 5.186875	Loss Uncertainty: 0.263014
+--ADE(1s): 0.1662	--FDE(1s): 0.2467
+--ADE(2s): 0.3467	--FDE(2s): 0.5178
+--ADE(3s): 0.5459	--FDE(3s): 0.7776
+--ADE(4s): 0.7746	--FDE(4s): 1.1303
+[2025-05-13 23:46:40] Epoch: 42		Loss: 5.450576	Loss Dist.: 5.187680	Loss Uncertainty: 0.262897
+[2025-05-14 01:16:19] Epoch: 43		Loss: 5.438483	Loss Dist.: 5.176275	Loss Uncertainty: 0.262208
+--ADE(1s): 0.1662	--FDE(1s): 0.2468
+--ADE(2s): 0.3468	--FDE(2s): 0.5178
+--ADE(3s): 0.5458	--FDE(3s): 0.7767
+--ADE(4s): 0.7740	--FDE(4s): 1.1256
+[2025-05-14 02:56:13] Epoch: 44		Loss: 5.435086	Loss Dist.: 5.173154	Loss Uncertainty: 0.261932
+[2025-05-14 04:29:02] Epoch: 45		Loss: 5.424770	Loss Dist.: 5.163217	Loss Uncertainty: 0.261553
+--ADE(1s): 0.1663	--FDE(1s): 0.2471
+--ADE(2s): 0.3470	--FDE(2s): 0.5180
+--ADE(3s): 0.5459	--FDE(3s): 0.7770
+--ADE(4s): 0.7743	--FDE(4s): 1.1272
+[2025-05-14 06:08:42] Epoch: 46		Loss: 5.421401	Loss Dist.: 5.160449	Loss Uncertainty: 0.260953
+[2025-05-14 07:39:55] Epoch: 47		Loss: 5.413352	Loss Dist.: 5.152599	Loss Uncertainty: 0.260753
+--ADE(1s): 0.1666	--FDE(1s): 0.2476
+--ADE(2s): 0.3474	--FDE(2s): 0.5184
+--ADE(3s): 0.5463	--FDE(3s): 0.7780
+--ADE(4s): 0.7745	--FDE(4s): 1.1277
+[2025-05-14 09:00:04] Epoch: 48		Loss: 5.398443	Loss Dist.: 5.138680	Loss Uncertainty: 0.259763
+[2025-05-14 10:12:11] Epoch: 49		Loss: 5.389189	Loss Dist.: 5.129603	Loss Uncertainty: 0.259586
+--ADE(1s): 0.1661	--FDE(1s): 0.2466
+--ADE(2s): 0.3468	--FDE(2s): 0.5175
+--ADE(3s): 0.5459	--FDE(3s): 0.7771
+--ADE(4s): 0.7742	--FDE(4s): 1.1268
+[2025-05-14 11:32:14] Epoch: 50		Loss: 5.390429	Loss Dist.: 5.130606	Loss Uncertainty: 0.259823
