@@ -1,4 +1,5 @@
 import os
+import os
 import time
 import random
 import numpy as np
@@ -306,7 +307,7 @@ class Trainer:
         )
         mean = (1 / alpha_t.sqrt()) * (cur_y - (eps_factor * eps_theta))
         sigma_t = beta_t.sqrt()
-        sample = mean + sigma_t * z * 0.00001
+        sample = mean + sigma_t * z
         return sample
 
     def p_sample_loop(self, social_flat, hist_flat, shape):

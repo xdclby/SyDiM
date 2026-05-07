@@ -252,7 +252,7 @@ class Trainer:
 		z = torch.randn_like(cur_y).to(x.device)
 		# Fixed sigma
 		sigma_t = self.extract(self.betas, t, cur_y).sqrt()
-		sample = mean + sigma_t * z * 0.00001
+		sample = mean + sigma_t * z
 		return (sample)
 
 
